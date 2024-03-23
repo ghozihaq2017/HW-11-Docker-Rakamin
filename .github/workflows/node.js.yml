@@ -53,6 +53,6 @@ jobs:
       env:
         DB_USERNAME: "postgres"
         DB_PASSWORD: "12345678"
-        DB_TEST: "todo-database-test"
+        DB_TEST: "todo-database"
         DB_HOST: "localhost"
         PGPORT: 5432
