@@ -28,7 +28,7 @@ jobs:
         # Provide the password for postgres
         env:
           POSTGRES_USER: postgres
-          POSTGRES_PASSWORD: postgres
+          POSTGRES_PASSWORD: 12345678
         # Set health checks to wait until postgres has started
         options: >-
           --health-cmd pg_isready
@@ -51,8 +51,8 @@ jobs:
     - name: run unit testing
       run: npm run test-ci
       env:
-        POSTGRES_USER: "postgres"
-        POSTGRES_PASSWORD: "postgres"
+        DB_USERNAME: "postgres"
+        DB_PASSWORD: "12345678"
         DB_TEST: "todo-test"
         DB_HOST: "localhost"
         PGPORT: 5432
