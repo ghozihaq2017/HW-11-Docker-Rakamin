@@ -1,0 +1,102 @@
+[
+  {
+    "task": "Membuat presentasi proyek",
+    "description": "Presentasi untuk rapat tim",
+    "completed": false
+  },
+  {
+    "task": "Membeli bahan baku",
+    "description": "Belanja ke supermarket",
+    "completed": true
+  },
+  {
+    "task": "Mengirim email kepada klien",
+    "description": "Pengiriman update proyek terbaru",
+    "completed": false
+  },
+  {
+    "task": "Mengerjakan laporan bulanan",
+    "description": "Laporan keuangan untuk direview oleh manajemen",
+    "completed": false
+  },
+  {
+    "task": "Menyelesaikan tugas kuliah",
+    "description": "Pengumpulan tugas dalam minggu ini",
+    "completed": true
+  },
+  {
+    "task": "Mengatur jadwal pertemuan",
+    "description": "Penjadwalan pertemuan dengan klien",
+    "completed": false
+  },
+  {
+    "task": "Menyusun rencana liburan",
+    "description": "Rencana perjalanan ke luar kota",
+    "completed": false
+  },
+  {
+    "task": "Mengikuti pelatihan online",
+    "description": "Pelatihan tentang manajemen proyek",
+    "completed": true
+  },
+  {
+    "task": "Membayar tagihan listrik",
+    "description": "Pembayaran tagihan bulanan",
+    "completed": false
+  },
+  {
+    "task": "Menyelesaikan pembacaan buku",
+    "description": "Membaca buku tentang pengembangan diri",
+    "completed": true
+  },
+  {
+    "task": "Berolahraga di gym",
+    "description": "Workout rutin untuk kesehatan",
+    "completed": false
+  },
+  {
+    "task": "Menyiapkan makan malam",
+    "description": "Menyiapkan resep favorit",
+    "completed": true
+  },
+  {
+    "task": "Mengurus administrasi perusahaan",
+    "description": "Pengurusan administratif untuk keperluan perusahaan",
+    "completed": false
+  },
+  {
+    "task": "Berkebun di halaman rumah",
+    "description": "Menanam tanaman hias",
+    "completed": false
+  },
+  {
+    "task": "Menyusun anggaran keuangan",
+    "description": "Perencanaan keuangan bulanan",
+    "completed": true
+  },
+  {
+    "task": "Membuat playlist musik",
+    "description": "Playlist untuk suasana kerja",
+    "completed": false
+  },
+  {
+    "task": "Belajar bahasa asing",
+    "description": "Mengikuti kursus bahasa online",
+    "completed": true
+  },
+  {
+    "task": "Menyusun rencana pesta ulang tahun",
+    "description": "Rencana pesta untuk teman",
+    "completed": false
+  },
+  {
+    "task": "Mengurus dokumen perjalanan",
+    "description": "Pembuatan paspor dan visa",
+    "completed": false
+  },
+  {
+    "task": "Menyusun rencana investasi",
+    "description": "Perencanaan investasi jangka panjang",
+    "completed": true
+  }
+]
